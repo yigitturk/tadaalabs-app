@@ -1,0 +1,15 @@
+html, body {
+    min-height: 400%;
+    max-height: 400%;
+    background-color: #252525; 
+    background: linear-gradient(
+        150deg, #0d503e,#4e3872
+    );
+    /**-webkit-background-clip: text;*/
+    /**-webkit-text-fill-color: transparent;*/
+  }
+  
+  .full-height {
+    min-height: 400%;
+    max-height: 400%;
+  }

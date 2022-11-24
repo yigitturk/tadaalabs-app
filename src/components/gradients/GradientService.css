@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Kudajets';
+    src: url('../fonts/Kudajets/Kudajets.otf');
+}
+.center2 {
+    text-align: left;
+  }
+h2{ 
+    position:absolute; 
+    float:left;
+    left:10%;
+    top:120%;
+
+    font-family: 'Kudajets';
+    font-size: 48px;
+    background: linear-gradient(
+        170deg, #ffffff, #ffffff
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h3{ 
+    position:absolute; 
+    float:center;
+    left:25%;
+    right:25%;
+    top:220%;
+
+    font-family: 'Kudajets';
+    font-size: 48px;
+    background: linear-gradient(
+        170deg, #ffffff, #ffffff
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h4{ 
+    position:absolute; 
+    float:center;
+    left:25%;
+    right:25%;
+    top:340%;
+
+    font-family: 'Kudajets';
+    font-size: 48px;
+    background: linear-gradient(
+        170deg, #ffffff, #ffffff
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

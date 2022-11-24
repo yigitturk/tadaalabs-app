@@ -1,0 +1,22 @@
+.center {
+    text-align: center;
+  }
+img{
+    position:fixed; 
+    top:-1%; 
+	left:1%;
+    overflow: hidden;
+    width: 200px;
+    height: auto;
+    z-index: 15;
+}
+#wizard{
+    position:absolute; 
+    float:center;
+    top:100%;
+    left:50%;
+    transform:translate(-50%,0%);
+    height: 100%;
+    width:100%;
+    z-index: -1;
+}
